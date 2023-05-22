@@ -3,7 +3,7 @@
 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 Saya ❕
 BELOM 100% SIAP PAK😅!!
 
-! Ini adalah portofolio pribadi saya yang menampilkan proyek-proyek yang telah saya kerjakan dan informasi tentang diri saya🥇, Web Ini Dibuat Oleh Saya (Pemula) Dan Doi Saya (Front end)
+! Ini adalah portofolio pribadi saya yang menampilkan proyek-proyek yang telah saya kerjakan dan informasi tentang diri saya🥇, Web Ini Dibuat Oleh Saya (Pemula) Dan Doi Saya (Front End Dan Back End), Web Ini Di Untuk Perlombaan Buat Web DI SMKN 1 SIGLI, Ini Ide Doi Saya, Dan Saya Hanya Mengikuti Dari Ide Doi Saya Sendiri.
 
 Teknologi yang Digunakan🛰:
 
