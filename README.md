@@ -7,7 +7,7 @@ BELOM 100% SIAP PAK!!
 
 ! Ini adalah portofolio pribadi saya yang menampilkan proyek-proyek yang telah saya kerjakan dan informasi tentang diri saya.
 
-Teknologi yang Digunakan
+Teknologi yang Digunakan---------
 -HTML
 -CSS
 -JavaScript
