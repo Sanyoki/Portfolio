@@ -18,13 +18,11 @@ Teknologi yang Digunakan🛰:
 𝗦𝘁𝗿𝘂𝗸𝘁𝘂𝗿 𝗙𝗼𝗹𝗱𝗲𝗿 -
 
 𝗜𝗻𝗱𝗲𝘅.𝗵𝘁𝗺𝗹📩:
-
 File utama yang berisi struktur HTML dan menghubungkan file CSS dan JavaScript.
 css/: Folder yang berisi file-file CSS yang digunakan untuk mengatur tampilan.
 js/: Folder yang berisi file-file JavaScript yang digunakan untuk interaksi dan animasi.
 
 𝐂𝐚𝐫𝐚 𝐌𝐞𝐧𝐣𝐚𝐥𝐚𝐧𝐤𝐚𝐧📩:
-
 Clone repositori ini ke komputer lokal Anda.
 Buka https://github.com/Sanyoki/Portfolio menggunakan browser web.
 
