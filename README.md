@@ -27,7 +27,9 @@ js/: Folder yang berisi file-file JavaScript yang digunakan untuk interaksi dan 
 
 Clone repositori ini ke komputer lokal Anda.
 Buka https://github.com/Sanyoki/Portfolio menggunakan browser web.
+
 𝗖𝗮𝗿𝗮 𝗠𝗲𝗻𝗴𝗴𝘂𝗻𝗮𝗸𝗮𝗻🔨:
+
 Anda dapat menjelajahi portofolio saya dengan mengklik menu navigasi di bagian atas halaman. Halaman utama menampilkan ringkasan singkat tentang saya, sementara halaman proyek menampilkan proyek-proyek yang telah saya kerjakan.
 
 Lisensi🤏:
