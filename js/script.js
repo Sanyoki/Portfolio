@@ -31,7 +31,7 @@ window.onscroll = () => {
     
     header.classList.toggle('sticky', window.scrollY > 100);
 
-    // Ilang toggle icon and navbar when click navbar link (scroll)
+    // toggle icon and navbar when click navbar link (scroll)
     menuIcon.classList.remove('bx-x');
     navbar.classList.remove('active');
 };
@@ -49,7 +49,7 @@ sr.reveal('.home-img, .services-container, .portfolio-box, .contact form', { ori
 
 // Typed Js 
 const typed = new Typed('.multiple-text',{
-    strings: ['Instagram',' Discord',' GitHub'],   
+    strings: ['Facebook','Instagram',' GitHub','Discord'],   
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
