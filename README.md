@@ -7,7 +7,7 @@ BELOM 100% SIAP PAK😅!!
 
 Teknologi yang Digunakan🛰:
 
-➜ 💻 Asus ROG Strix G16
+➜ 💻 Asus X441U
 
 ➜ HTML
 
