@@ -9,11 +9,9 @@ BELOM 100% SIAP PAK!!
 
 Teknologi yang Digunakan
 
--HTML
-
--CSS
-
--JavaScript
+~ HTML
+~ CSS
+~ JavaScript
 
 Struktur Folder
 index.html:
@@ -22,7 +20,6 @@ css/: Folder yang berisi file-file CSS yang digunakan untuk mengatur tampilan.
 js/: Folder yang berisi file-file JavaScript yang digunakan untuk interaksi dan animasi.
 
 Cara Menjalankan
-
 Clone repositori ini ke komputer lokal Anda.
 Buka file index.html menggunakan browser web.
 Cara Menggunakan
