@@ -10,7 +10,9 @@ BELOM 100% SIAP PAK!!
 Teknologi yang Digunakan
 
 ~ HTML
+
 ~ CSS
+
 ~ JavaScript
 
 Struktur Folder
