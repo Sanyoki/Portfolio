@@ -1,9 +1,11 @@
 Assalamualaikum Sobat Khusus ya Sobat WPU  !!
 
 
-Portfolio Saya
+Portfolio Saya !
 
-Ini adalah portofolio pribadi saya yang menampilkan proyek-proyek yang telah saya kerjakan dan informasi tentang diri saya.
+BELOM 100% SIAP PAK!!
+
+! Ini adalah portofolio pribadi saya yang menampilkan proyek-proyek yang telah saya kerjakan dan informasi tentang diri saya.
 
 Teknologi yang Digunakan
 -HTML
