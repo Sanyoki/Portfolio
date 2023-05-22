@@ -9,7 +9,9 @@ Teknologi yang Digunakan🛰:
 ➜ 💻 Asus ROG Strix G16
 
 ➜ HTML
+
 ➜ CSS
+
 ➜ JavaScript
 
 𝗦𝘁𝗿𝘂𝗸𝘁𝘂𝗿 𝗙𝗼𝗹𝗱𝗲𝗿 -
