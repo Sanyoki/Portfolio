@@ -1,4 +1,4 @@
-Assalamualaikum Sobat Khusus ya Sobat WPU ❕❕
+𝐀𝐬𝐬𝐚𝐥𝐚𝐦𝐮𝐚𝐥𝐚𝐢𝐤𝐮𝐦 Sobat Khusus ya Sobat WPU ❕❕
 
 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 Saya ❕
 BELOM 100% SIAP PAK😅!!
