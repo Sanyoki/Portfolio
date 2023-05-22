@@ -7,6 +7,7 @@ BELOM 100% SIAP PAK😅!!
 
 Teknologi yang Digunakan🛰:
 ➜ 💻 Asus ROG Strix G16
+
 ➜ HTML
 ➜ CSS
 ➜ JavaScript
